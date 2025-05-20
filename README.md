@@ -16,4 +16,4 @@ I have successfully earned this certification, demonstrating my ability to handl
 <br />
 <br />
 
-You can view my Microsoft Certified: Azure Fundamentals certification [here](https://learn.microsoft.com/api/credentials/share/en-us/CharlesChineduDike-6108/F69631BF85475F19?sharingId=B176010945403D6A).
+You can view my Microsoft Certified: Azure Administrator Associate certification [here](https://learn.microsoft.com/api/credentials/share/en-us/CharlesChineduDike-6108/F69631BF85475F19?sharingId=B176010945403D6A).
