@@ -1,4 +1,4 @@
-## Microsoft Certified: Azure Administrator Associate (AZ-104)
+## Microsoft Certified: Azure Administrator Associate
 
 This certification validates the skills and knowledge required to implement, manage, and monitor an organization's Microsoft Azure environment. It demonstrates proficiency in areas such as:
 
